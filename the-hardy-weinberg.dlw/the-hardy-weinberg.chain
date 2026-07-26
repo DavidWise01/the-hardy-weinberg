@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1610
+slug  : the-hardy-weinberg
+seal  : 06fd11f045a4300e430e5e4191263f84b35be0361414b51f85df68e2b2f8d1b7
+prev  : 52a3da865075b5ea0d2897451d97dc09f67b6e3ac90a6a1f9173f57481b789f2
+link  : 924d9a34b4f52f2b3fae180eff9b46a7d174fee101d9391c514fa53c67136ab9
+head  : 924d9a34b4f52f2b3fae180eff9b46a7d174fee101d9391c514fa53c67136ab9
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
